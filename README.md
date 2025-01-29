@@ -13,7 +13,4 @@
 🔹 **Статистика GitHub:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwuna&show_icons=true&theme=radical)
 
-🔹 **Последний мем-проект:**  
-![meme_side_project](meme_side_project.jpg)
-
 ![meme_side_project](meme_side_project.jpg)
